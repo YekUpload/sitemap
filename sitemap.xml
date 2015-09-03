@@ -1,0 +1,86 @@
+You can create manual sitemap on your website
+sitemap very good for SEO
+Thanks manage http://yekupload.com
+
+<!-- Created using YekUpload.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>URL Site</loc>
+<lastmod>yyy-mm-dd</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+</urlset>
+<!-- Created using YekUpload.com -->
+
+Example:
+<!-- Created using YekUpload.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://yekupload.com/sitemap.xml</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://yekupload.com/sitemap.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://www.yekupload.com/login.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://yekupload.com/register.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://yekupload.com/upgrade.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://yekupload.com/faq.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://yekupload.com/contact.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://yekupload.com/forgot_password.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://yekupload.com/terms.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://yekupload.com/guestfile.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://yekupload.com/announcement.html</loc>
+<lastmod>2015-08-16</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1.0</priority>
+</url>
+</urlset>
+<!-- Created using YekUpload.com -->
